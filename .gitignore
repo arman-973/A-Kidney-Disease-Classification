@@ -6,4 +6,4 @@ __pycache__/
 *.iml
 artifacts/
 *.zip
-logs/
+logs/model/model.h5
