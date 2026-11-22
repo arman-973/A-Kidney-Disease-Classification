@@ -238,4 +238,4 @@ Go to `Settings > Actions > Runners > New self-hosted runner` and follow the ins
 
 ## 👤 Author
 
-**Md Tuhin Molla** — [GitHub](https://github.com/tuhin1522)
+**Arman Mia** — [GitHub](https://github.com/arman-973)
